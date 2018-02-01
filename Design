@@ -1,1 +1,1 @@
-In doodle god, you combine two elements to make new elements. you first choose an element, and then select a second one. If they are compatible, a new element will form. Else, the game will give an error message.
+There should be an array for all possible elements. And an array for unlocked elements. You will be given one element at first.
