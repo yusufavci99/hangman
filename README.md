@@ -1,2 +1,3 @@
-# hello-world
-Hello World rep
+public static void main (String[] args) {
+System.out.println("Selamlar");
+}
